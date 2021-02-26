@@ -1,2 +1,3 @@
 # hello-world
-The Hello World tutorial
+
+What's Coffeescript?
